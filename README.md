@@ -15,7 +15,6 @@ This repository contains the source code for an AI-powered insurance application
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ahmed-shami/BisonHacks2025.git
-   ```bash
    cd BisonHacks2025
 
 2. **Install Dependencies: Ensure you have Python 3.x installed. Then, install the required Python packages:**
@@ -25,7 +24,6 @@ This repository contains the source code for an AI-powered insurance application
 3. **Set Up Environment Variables: Create a .env file in the root directory and add any necessary environment variables, such as API keys or database URLs. For example:**
    ```bash
    API_KEY=your_api_key_here
-   ```bash
    DATABASE_URL=your_database_url_here
 
 4. **Apply Database Migrations: If the project uses a database, apply the necessary migrations:**
